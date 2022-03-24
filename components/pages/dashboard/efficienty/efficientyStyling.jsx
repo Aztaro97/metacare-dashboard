@@ -16,20 +16,19 @@ export const Container = styled.div`
     }
     & .form-group-search {
       position: relative;
-      & .icon {
-        position: absolute;
-      }
       & input {
         border: 1px solid #e1e1eb;
         border-radius: 8px;
         padding: 10px;
+        padding-left: 40px;
+        width: 350px;
         &:focus {
           outline: none;
         }
       }
       & .icon {
         position: absolute;
-        right: 15px;
+        left: 15px;
         top: 15px;
         bottom: 0;
       }
