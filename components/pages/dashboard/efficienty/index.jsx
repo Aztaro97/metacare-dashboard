@@ -41,7 +41,7 @@ const Efficiency = () => {
 
       <ChartComponents
         title="Average Response Time"
-        chartColor="var(--orange-color)"
+        chartColor="var(--orange-100-color)"
         label="Average Response Time"
       />
       <ChartComponents

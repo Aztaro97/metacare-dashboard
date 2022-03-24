@@ -14,6 +14,7 @@ export const GlobalStyle = createGlobalStyle`
 
     :root {
         --orange-color: #F25A68;
+        --orange-100-color: #F05D23;
         --purple-color: #6837EF;
         --black-color: #060213;
         --green-color: #25BB87;
