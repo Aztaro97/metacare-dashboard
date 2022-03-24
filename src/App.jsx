@@ -4,7 +4,6 @@ import {GlobalStyle} from "./globalSyles";
 import Layout from "../components/layout";
 import Dashboard from "../components/pages/dashboard";
 import "antd/dist/antd.css";
-import "./App.css";
 
 function App() {
   return (

@@ -19,6 +19,7 @@ export const GlobalStyle = createGlobalStyle`
         --green-color: #25BB87;
         --gray-color:#696D8C;
         --bright-color: #07C9E2;
+        --red-color: #FB6491;
 
         --border-color: #ECEBF5;
         --antd-wave-shadow-color: #000;
